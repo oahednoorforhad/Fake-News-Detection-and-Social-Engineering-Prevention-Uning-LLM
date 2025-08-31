@@ -1,6 +1,6 @@
 # Fake News Detector & Social Engineering Prevention
 
-[![License: MIT](https.img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
 This project is an intelligent system that detects fake news to help prevent social engineering attacks. It uses a Large Language Model (LLM) with real-time web fact-checking to provide transparent, accurate analysis of news articles.
